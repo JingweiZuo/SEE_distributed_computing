@@ -1,0 +1,29 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="see_distributed_computing:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/see_distributed_computing_jar</output-path>
+    <root id="archive" name="see_distributed_computing.jar">
+      <element id="module-output" name="see_distributed_computing" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-launcher_2.11/jars/spark-launcher_2.11-2.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.11.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-unsafe_2.11/jars/spark-unsafe_2.11-2.3.0.jar" path-in-jar="/" />
+      <element id="library" level="module" name="sbt: unmanaged-sources-and-docs" module-name="see_distributed_computing" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/jars/spark-mllib_2.11-2.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-kvstore_2.11/jars/spark-kvstore_2.11-2.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-streaming_2.11/jars/spark-streaming_2.11-2.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-graphx_2.11/jars/spark-graphx_2.11-2.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sketch_2.11/jars/spark-sketch_2.11-2.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-network-shuffle_2.11/jars/spark-network-shuffle_2.11-2.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-network-common_2.11/jars/spark-network-common_2.11-2.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib-local_2.11/jars/spark-mllib-local_2.11-2.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scalap/jars/scalap-2.11.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-tags_2.11/jars/spark-tags_2.11-2.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.5.jar" path-in-jar="/" />
+      <element id="library" level="project" name="jars" />
+    </root>
+  </artifact>
+</component>
